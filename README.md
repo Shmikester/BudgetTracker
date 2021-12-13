@@ -1,7 +1,7 @@
 # BudgetTracker
   
   ## Description
-  This is a refactor of the backend so that the server uses apollo.
+  This is a refactor of the backend so that the app can be used offline
 
   ## Credits
   Michael Heffron
